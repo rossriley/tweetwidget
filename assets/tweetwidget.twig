@@ -1,0 +1,24 @@
+{# Note: do not change this file. If you wish to modify it, copy it, and set the correct name in this extension's config.yml #}
+
+<script type='text/javascript'>
+    jQuery(function($){
+        $(".tweet").tweet({
+            username: "{{ config.username }}",
+            join_text: "auto",
+            avatar_size: '{{ config.avatar_size }}',
+            count: '{{ config.count }}',
+            fetch: '{{ config.fetch }}',
+            filter: function(t){ return ! /^@\w+/.test(t.tweet_raw_text); },
+            auto_join_text_default: "",
+            auto_join_text_ed: "",
+            auto_join_text_ing: "",
+            auto_join_text_reply: "",
+            auto_join_text_url: "",
+            loading_text: "{{ config.loading_text }}"
+        });
+    });
+</script>
+
+<div class="bolt_widget">
+    <div class="tweet"></div>
+</div>

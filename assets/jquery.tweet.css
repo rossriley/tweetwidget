@@ -1,0 +1,37 @@
+/* Note: do not change this file. If you wish to modify it, copy it, and set the correct name in this extension's config.yml */
+.tweet, .query {
+	/* font: 120% Georgia, serif;
+	color: #085258; */
+}
+
+.tweet_list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+    /* background-color: #8ADEE2; */
+}
+
+.tweet_list li {
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 0.5em;
+    list-style-type: none;
+    font-size: 90%;
+}
+
+.tweet_list li a {
+    color: #0C717A;
+}
+
+.tweet_list .tweet_even {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.tweet_list .tweet_avatar {
+    padding-right: .5em; float: left;
+}
+
+.tweet_list .tweet_avatar img {
+    vertical-align: middle;
+}
