@@ -2,7 +2,7 @@
     "name": "ross/tweetwidget",
     "description": "Tweetwidget is a twitter widget, based on the 'Sea of Clouds' Tweet! script.",
     "require": {
-        "bolt/bolt": "~1.6"
+        "bolt/bolt": "~2.0"
     },
     "license": "MIT",
     "authors": [
