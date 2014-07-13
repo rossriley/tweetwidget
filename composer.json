@@ -1,0 +1,14 @@
+{
+    "name": "ross/tweetwidget",
+    "description": "Tweetwidget is a twitter widget, based on the 'Sea of Clouds' Tweet! script.",
+    "require": {
+        "bolt/bolt": "~1.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ross Riley",
+            "email": "riley.ross@gmail.com"
+        }
+    ]
+}
