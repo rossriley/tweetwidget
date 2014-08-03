@@ -1,6 +1,8 @@
 {
     "name": "ross/tweetwidget",
     "description": "Tweetwidget is a twitter widget, based on the 'Sea of Clouds' Tweet! script.",
+    "type": "bolt-extension",
+    "keywords": ["twitter","clouds","widget"],
     "require": {
         "bolt/bolt": ">1.6,<2.0.0"
     },
