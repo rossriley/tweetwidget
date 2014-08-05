@@ -11,6 +11,3 @@ will not be overwritten when you update the extension.
 
 </pre>
 
-
-
-
