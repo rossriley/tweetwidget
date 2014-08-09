@@ -13,6 +13,14 @@
             "email": "bob@twokings.nl"
         }
     ],
+    "autoload": {
+        "files": [
+            "init.php"
+        ],
+        "psr-4": {
+            "Myextension\\": "src"
+        }
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.7.*"
