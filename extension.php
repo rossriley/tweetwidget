@@ -69,6 +69,11 @@ class Extension extends \Bolt\BaseExtension
         return new \Twig_Markup($formhtml, 'UTF-8');
 
     }
+    
+    public function getName()
+    {
+        return "tweetwidget";
+    }
 
 
 
