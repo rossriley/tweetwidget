@@ -1,5 +1,5 @@
 {
-    "name": "ross/tweetwidget",
+    "name": "ross/Tweetwidget",
     "description": "Tweetwidget is a twitter widget, based on the 'Sea of Clouds' Tweet! script.",
     "type": "bolt-coolness",
     "keywords": ["twitter","clouds","widget","tweet"],
