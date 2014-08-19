@@ -3,9 +3,8 @@
     "description": "Tweetwidget is a twitter widget, based on the 'Sea of Clouds' Tweet! script.",
     "type": "bolt-coolness",
     "keywords": ["twitter","clouds","widget","tweet"],
-    "require": {
-        "bolt/bolt": ">1.6,<3.0.0"
-    },
+   
+   
     "license": "MIT",
     "authors": [
         {
