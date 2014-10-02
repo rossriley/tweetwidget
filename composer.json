@@ -5,7 +5,7 @@
     "keywords": ["twitter","clouds","widget","tweet"],
    
    
-    "license": "GPL",
+    "license": "MADEUP",
     "require" : {
         "bolt/bolt" : ">=2.0.0,<3.0.0"
     },
