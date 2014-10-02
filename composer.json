@@ -6,6 +6,9 @@
    
    
     "license": "GPL",
+    "require" : {
+        "bolt/bolt" : ">=2.0.0,<3.0.0"
+    },
     "authors": [
         {
             "name": "Bob den Otter",
